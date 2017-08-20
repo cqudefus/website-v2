@@ -1,9 +1,3 @@
-<div class="container">
+<div class="container cont">
     {content}
 </div>
-
-
-
-
-
-

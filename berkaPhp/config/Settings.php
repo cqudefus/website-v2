@@ -1,16 +1,16 @@
 <?php
 	namespace berkaPhp\config;
 
-    define('DEBUG', true, true);
+    define('DEBUG', false, true);
 
     //Database settings
-    define('SERVER', '', true);
-    define('DB', '', true);
+    define('SERVER', '127.0.0.1', true);
+    define('DB', 'cqudefus', true);
     define('DB_USERNAME', 'root', true);
-    define('DB_PW', $_SERVER['SERVER_NAME']=='www.yourlivesite.com' ? '' : '', true);
+    define('DB_PW', $_SERVER['SERVER_NAME']=='www.yourlivesite.com' ? '' : 'Sit@0923', true);
 
     //default controller
-    define('HOME', 'pages' , true);
+    define('HOME', 'home' , true);
 
     //default prefix
     define('DEFAULT_PREFIX', 'Default' , true);
@@ -100,4 +100,3 @@
     define('IS_DB_CONNECTED', $is_connected, true);
 
 ?>
-
