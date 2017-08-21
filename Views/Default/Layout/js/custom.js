@@ -12,3 +12,17 @@ cqudefus.initServices = function() {
         }
     });
 }
+
+cqudefus.initAppNav = function(){
+
+    $('#nav li').each(function(){
+      $(this).on('click', function() {
+
+          $('#nav li').each(function(){
+              $(this).removeClass('current-menu-item');
+          });
+
+          $(this).addClass('current-menu-item');
+      });
+    });
+}

@@ -98,6 +98,7 @@
 <script>
     cqudefus.initServices();
     $app.initBerkaPhp();
+    cqudefus.initAppNav();
 </script>
 
 </body>

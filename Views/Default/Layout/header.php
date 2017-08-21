@@ -81,10 +81,10 @@
   				<nav id="navbar" class="collapse navbar-collapse">
   					<ul id="nav">
   						<li class="current-menu-item">
-                <a href="#">Home</a>
+                <a href="/">Home</a>
               </li>
               <li>
-                <a href="#">About</a>
+                <a href="/about">About</a>
               </li>
   					  <li>
                 <a href="#">Hosting</a>
