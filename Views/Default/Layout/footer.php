@@ -24,11 +24,11 @@
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh eui smod tincidunt ut laoreet dolore magna.</p>
                     </div>
                     <ul class="footerLinkIcon">
-                        <li><a href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-                        <li><a href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-                        <li><a href="#"><i class="icofont icofont-social-google-plus"></i></a></li>
-                        <li><a href="#"><i class="icofont icofont-social-tumblr"></i></a></li>
-                        <li><a href="#"><i class="icofont icofont-social-yelp"></i></a></li>
+                        <li><a href="https://www.facebook.com/cqudefus/"><i class="icofont icofont-social-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/cqudefus"><i class="icofont icofont-social-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/cqudefus/"><i class="icofont icofont-social-instagram"></i></a></li>
+                        <!--<li><a href="#"><i class="icofont icofont-social-linkedin"></i></a></li>
+                        <li><a href="#"><i class="icofont icofont-social-yelp"></i></a></li>-->
                     </ul>
                 </div>
             </div>
@@ -39,20 +39,20 @@
                         <li><a href="#">Support</a></li>
                         <li><a href="#">Privacy & Policy</a></li>
                         <li><a href="#">Terms & Conditions</a></li>
-                        <li><a href="#">VPN Service</a></li>
-                        <li><a href="#">Dedicated Server</a></li>
+                        <li><a href="#">Hosting</a></li>
+                        <li><a href="#">Development</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="widget">
-                    <div class="h4">out pertners</div>
+                    <div class="h4">our Services</div>
                     <ul class="footerLink">
-                        <li><a href="#">ThemeForest</a></li>
-                        <li><a href="#">GraphicRiver</a></li>
-                        <li><a href="#">AudioJungle</a></li>
-                        <li><a href="#">3DOcean</a></li>
-                        <li><a href="#">CodeCanayon</a></li>
+                        <li><a href="#">Brand Image</a></li>
+                        <li><a href="#">Content Creation</a></li>
+                        <li><a href="#">Social Media</a></li>
+                        <!--<li><a href="#">3DOcean</a></li>
+                        <li><a href="#">CodeCanayon</a></li>-->
                     </ul>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                 <div class="contactInfo">
                     <div class="h4">contact with us</div>
                     <span class="call"><a href="tel:+214-5212-829"><i class="icofont icofont-ui-call"></i>+214-5212-829</a></span>
-                    <span class="email"><a href="mailto:support@spark.com"><i class="icofont icofont-ui-v-card"></i>support@spark.com</a></span>
+                    <span class="email"><a href="mailto:support@cqudefus.com"><i class="icofont icofont-ui-v-card"></i>support@cqudefus.com</a></span>
                     <a href="" class="contactBtn Btn">Send us a message</a>
 
                 </div>
@@ -69,7 +69,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="copyrightTxt">
-                    <p>&copy; Copyright 2016 Spark, </p>
+                    <p>&copy; Copyright 2017 Cqudefus, </p>
                     <p>All Rights Reserved</p>
                 </div>
             </div>
